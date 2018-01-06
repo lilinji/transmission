@@ -72,7 +72,8 @@ FAQ请转到，<a href="https://www.baidu.com">常见问题</a>
 
 # 开发者交流
 请加入开发者群，注明来自github
-<img src="https://github.com/lilinji/transmission/blob/master/Aliyun-Novogene-SGE/1.png"></img>
+
+--------补充-----------
 
 
 工具运行需要JDK 7或以上版本
