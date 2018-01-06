@@ -1,5 +1,5 @@
-transmission# transmission
-用于安装SGE-HPC集群在阿里云ECS
+# transmission
+用于传输本地NAS 存储和阿里云NAS存储的SDK封装
 # AdminSet
 <img src="https://travis-ci.org/guohongze/adminset.svg?branch=master"></img> 
 <img src="https://img.shields.io/hexpm/l/plug.svg"></img>
