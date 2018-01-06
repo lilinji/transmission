@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/hexpm/l/plug.svg"></img>
 [![release](https://img.shields.io/github/release/guohongze/adminset.svg)](https://github.com/lilinji/transmission)
 <br>
-transmission基于DevOps理念开发，以整合全部运维场景为己任。transmission是一个真正的基于运维思维而开发的全自动化安装集群Pipline。<br>
+transmission基于DevOps理念开发，以整合全部运维场景为己任。transmission是一个真正的基于运维思维而开发的全自动化并发数据传输系统。<br>
 
 ## v1.0.1 新功能
 自动配置config文件.<br>
